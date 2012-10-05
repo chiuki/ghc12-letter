@@ -6,9 +6,11 @@ Grace Hopper Celebration for Women in Computing, 4 October 2012, Baltimore, MD.
   - [Abstract] [1]
   - [Slides] [2]
   - [Session report] [3]
+  - [Negotiation skit] [4]
   - [Resources][4]: Books and websites
 
   [1]: http://gracehopper.org/2012/event/letter-to-my-younger-self-things-i-wish-i-knew-when-i-first-started-working/
   [2]: https://github.com/chiuki/ghc12-letter/blob/master/LetterToMyYoungerSelf.pdf?raw=true
   [3]: http://dynamicdoula.blogspot.com/2012/10/letter-to-my-younger-self-things-i-wish.html
-  [4]: https://github.com/chiuki/ghc12-letter/wiki/Resources
+  [4]: http://www.youtube.com/watch?v=RMnJoB9LT6A
+  [5]: https://github.com/chiuki/ghc12-letter/wiki/Resources
