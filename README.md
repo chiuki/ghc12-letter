@@ -10,7 +10,7 @@ Grace Hopper Celebration for Women in Computing, 4 October 2012, Baltimore, MD.
 ### Reports
 
   - [Lexy Holloway (official blogger)] [5]
-  - [Chiu-Ki Chan (speaker)] [6]
+  - [Chiu-Ki Chan (speaker), Rupa Dachere (speaker), Christina Schulman (speaker)] [6]
   - [Rachel Petterson] [7]
 
   [1]: http://gracehopper.org/2012/event/letter-to-my-younger-self-things-i-wish-i-knew-when-i-first-started-working/
